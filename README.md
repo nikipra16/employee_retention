@@ -1,1 +1,4 @@
 # employee_retention
+Employee departure is a natural part of the workforce lifecycle. While some are involuntary due to terminations and layoffs, many employees also quit on their own accord. This is a concern to a company because recruiting, hiring and training employees take money, time and effort. As highlighted in studies on employee retention, several factors contribute to why employees leave, including financial incentives, career development opportunities, and supportive work environments.
+
+In our project, we want to explore why an employee might leave the company and focus on using quantifiable predictor variables to predict whether an employee will leave the company. These findings might be able to reduce workload on HR and keep employees longer in the company by ensuring their satisfaction with their job and the company.
